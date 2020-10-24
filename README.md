@@ -1,10 +1,10 @@
 # Polecenia-GIT
 Przydatne polecenia GIT
-git init - inicjalizuje repozytorium GIT w katalogu
-git clone {adres repozytorium} - klonuje repozytorium do katalogu
-git status - pokazuje status repozytorium (pokazuje informację o zmodyfikowanych, nowych, usuniętych oraz nie należące do repozytorium plikach)
-git remote add {jakaś nazwa} {adres repozytorium} - dodaje repozytorium innego użytkownika (git remote add upstream https://github.com/bluetree-service/idylla.git)
-git remote -v lista wszystkich zewnetrznych repozytoriów
+* git init - inicjalizuje repozytorium GIT w katalogu
+* git clone {adres repozytorium} - klonuje repozytorium do katalogu
+* git status - pokazuje status repozytorium (pokazuje informację o zmodyfikowanych, nowych, usuniętych oraz nie należące do repozytorium plikach)
+* git remote add {jakaś nazwa} {adres repozytorium} - dodaje repozytorium innego użytkownika (git remote add upstream https://github.com/bluetree-service/idylla.git)
+* git remote -v lista wszystkich zewnetrznych repozytoriów
 git remote rm {nazwa dla remota} - usuwa zewnętrzne repozytorium
 git fetch {nazwa remota} - pobiera listę zmian z innego repozytorium (w tym pokazuje nowe gałęzie)
 git branch - lista gałęzi w repozytorium
