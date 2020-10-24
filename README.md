@@ -19,7 +19,7 @@
 * **git push** - wypycha zmiany na aktualnie wybraną gałąź
 * **git push {nazwa gałęzi}** - wypycha zmiany na wskazaną gałąź
 * **git push {nazwa remota} {nazwa gałęzi}** - wypycha zmiany na gałąź wskazanego repozytorium
-* **git add {ścierzka do pliku}** - dodaje plik do repozytorium (np. `git add folder/plik.php`)
+* **git add {ścieżka do pliku}** - dodaje plik do repozytorium (np. `git add folder/plik.php`)
 * **git add -A** - dodaje wszystkie nie należące do repozytorium pliki
 * **git reset --soft HEAD^** - cofa zmiany bez usuwania dodanych plików
 * **git reset --soft {numer commita}** - cofa zmiany bez usuwania dodanych plików do wskazanego commita (`git reset --soft b87dcea`)
